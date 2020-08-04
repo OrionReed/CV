@@ -1,10 +1,10 @@
-<h1 align="center">Sophia Bell</h1>
+<h1 align="center">Orion Reed</h1>
 
-<h4 align="center">Software Engineer at DMW Group</h4>
+<h4 align="center">Software Engineer</h4>
 
-<p align="center">Graduate of the inimitable Makers Academy, following a nine-year career working as Webmaster then Digital Content Manager for a finance professional body and non-profit.</p>
+<p align="center">Graduated Makers Academy, following a hobbyist persuit of game development and an ever-growing indomitable passion for programming</p>
 
-<p align="center"><a href="https://www.sophiabell.dev/">www.sophiabell.dev</a></p>
+<p align="center"><a href="https://www.orionreed.com/">www.orionreed.com</a></p>
 
 <p align="center">
 <a href="https://medium.com/@sophbell87"><img src="https://camo.githubusercontent.com/fb4865eefe449caf99147ee43f405f5c60533b82/687474703a2f2f7777772e7765626d6173746f2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031372f30382f4d656469756d2d4170702d49636f6e2d323031372e706e67" alt="medium" height="42" width="42" hspace="30" data-canonical-src="http://www.webmasto.com/wp-content/uploads/2017/08/Medium-App-Icon-2017.png"></a>
@@ -27,7 +27,6 @@ Changing careers is not an easy thing to do. The majority of my career has cente
 
 It was only when I started a 3-month evening web development course at [23 Code Street](https://www.23codestreet.com/) that I finally understood what I wanted to do - programming! This led to a number of online courses and finally to [Makers](https://makers.tech/), a 16-week intensive dev bootcamp. And I am loving every second of it! I have even started a [blog](https://medium.com/@sophbell87), which is really helping to consolidate my learning (and is great practice for code documentation).
 
-I now look forward to taking the skills I already have and those I will learn and applying them to my role at DMW Group.
 
 **Tech Skills** : Ruby, Rails, Javascript, React, Python, jQuery, HTML, CSS, SQL, PostgreSQL, NodeJS
 
