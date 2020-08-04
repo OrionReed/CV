@@ -2,7 +2,7 @@
 
 <h4 align="center">Software Engineer</h4>
 
-<p align="center">Graduated Makers Academy following a multi-year hobbyist persuit of game development and an ever-growing indomitable passion for programming</p>
+<p align="center">Graduated Makers Academy following a multi-year hobbyist persuit of game development and an ever-growing indomitable passion for programming.</p>
 
 <p align="center"><a href="https://www.orionreed.com/">www.orionreed.com</a></p>
 
@@ -21,23 +21,13 @@
 
 Changing careers is not an easy thing to do. The majority of my career has centered around website management and digital content, and I have had a lot of success in my previous role - as digital content and SEO lead, I helped increase website traffic to my sites from roughly 100,000 visitors a year to 5.5 million over my tenure, directly contributing to the team winning <a href="https://www.litrg.org.uk/about-us/litrg-successes">'Best Specialist Team in a public or not-for-profit organisation'</a> at the Taxation Awards 2020. However, I was only really skimming the surface of the tech world and I still felt like something was missing.
 
-It was only when I started a 3-month evening web development course at [23 Code Street](https://www.23codestreet.com/) that I finally understood what I wanted to do - programming! This led to a number of online courses and finally to [Makers](https://makers.tech/), a 16-week intensive dev bootcamp. And I am loving every second of it! I have even started a [blog](https://medium.com/@sophbell87), which is really helping to consolidate my learning (and is great practice for code documentation).
-
-
-**Tech Skills** : Ruby, Rails, Javascript, React, Python, jQuery, HTML, CSS, SQL, PostgreSQL, NodeJS
+**Tech Skills** : Ruby, Rails, C#, Haskell, Javascript, React, Python, jQuery, HTML, CSS, SQL, PostgreSQL, NodeJS
 
 **Testing**: RSpec, Jasmine, Capybara, Jest, Pytest
 
-**Linting**: Rubocop, ESlint, Simplecov
-
 <h2>Projects</h2>
 
-|                              Project                               |                                                                                                                                              Details                                                                                                                                               |                                                                                                                                                                                                                                                                                            <div style="width:300px">What I learnt</div>                                                                                                                                                                                                                                                                                             |
-| :----------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|           [Mix Tape](https://github.com/KG700/mix-tape)            | <img src="./images/MixTape.png" style="display: block; margin-left: auto; margin-right: auto;"><br />Makers final project to build an app that utilises the Spotify API to mix and produce playlists with your friends, and play them in-app.<br /> <strong>React Frontend, Rails Backend</strong> |                                    <ul align="left"><li>Learning an entirely new framework (React) in under 2 weeks is tough but manageable enough to produce a working and great looking app!</li><li>Communication and teamwork are vital when learning new skills quickly.</li><li>Spotify API authentication is tricky but, once you crack it, you are able to do so much.<li>Code reviews are a must!</li></ul><p align="left"><strong>Tech:</strong> React, Rails, Javascript, Ruby, PostgreSQL, Heroku <br /><strong>Testing and linting:</strong> Rspec, Capybara, Simplecov, ESlint</p>                                    |
-|        [Innercise](https://github.com/Kittaru87/innercise)         |                        <img src="./images/Innercise.png" style="display: block; margin-left: auto; margin-right: auto;"><br />Current project to create an app to help people more effectively exercise indoors using the YouTube API<br /> <strong>Ruby on Rails</strong>                         | <ul align="left"><li>Currently still in development but using the time to really consolidate what I have learnt in previous projects (and try some new things out too).</li><li>That setting up Travis correctly is a lesson in patience.</li><li>Always read API authorisation documentation thoroughly so you don't breach any terms of service.<li>Doing a project without a set deadline has its ups and downs.</li></ul><p align="left"><strong>Tech: </strong>Ruby, Rails, Javascript, jQuery, PostgreSQL, Bootstrap, Heroku, Travis CI <br /><strong>Testing and linting:</strong> Rspec, Capybara, Simplecov, Coveralls</p> |
-| [Acebook](https://github.com/Kittaru87/acebook-theUndefinedMethod) |                                                        <img src="./images/Acebook.png" style="display: block; margin-left: auto; margin-right: auto;"><br />Team project to build a clone of Facebook <br /> <strong>Ruby on Rails</strong>                                                        |                                                                                                     <ul align="left"><li>Taking time to research before diving straight into coding will always be beneficial. The same goes for planning.</li><li>jQuery and Rails don't often play ball nicely.</li></ul><p align="left"><strong>Tech: </strong>Ruby, Rails, Javascript, jQuery, PostgreSQL, Bootstrap, Heroku, Travis CI <br /><strong>Testing and linting:</strong> Rspec, Capybara, Simplecov, Coveralls, CodeClimate</p>                                                                                                      |
-|   [Bank Tech Test](https://github.com/Kittaru87/bank-tech-test)    |                                                <img src="./images/BTT.png" style="display: block; margin-left: auto; margin-right: auto;"><br />To write a program that can be used by irb to simulate a user's interaction with their bank account                                                |                                                                                                                              <ul align="left"><li>How to approach a tech test.</li><li>I wrote this program in both Ruby and Javascript to try to better understand the similarities and differences when approaching the problem from a Ruby or Javascript standpoint.</li></ul><p align="left"><strong>Tech: </strong>Ruby <br /><strong>Testing and linting:</strong> Rspec, Rubocop, Simplecov</p>                                                                                                                              |
+...                                                                                                                            |
 
 All projects can be found on my [GitHub account](https://github.com/Kittaru87)
 
@@ -64,86 +54,15 @@ It is important to be able to spot mistakes, especially when it comes to code. M
 
 #### [Makers Academy](https://makers.tech/) (January 2020 - May 2020)
 
-Highly selective 16-week immersive course that emphasises test-driven software development and agile methodologies. As a student I was encouraged to take ownership of my learning process, both as an individual and part of a team, producing programs in a variety of languages and frameworks. This included:
+A super-selective 16-week immersive course that emphasises test-driven software development and agile methodologies. As a student I was encouraged to take ownership of my learning process, both as an individual and part of a team, producing programs in a variety of languages and frameworks. This included:
 
-- Collaborating and learning through pair programming and peer-driven code reviews
 - Writing clear, simple code by following TDD and OOP design patterns
+- Collaborating and learning through pair programming and peer-reviewed code
 - Daily stand-ups, sprint planning and evening retros
-- Project work using GitHub as a version control tool (largely done remotely)
-- Understanding project requirements by creating user stories, domain models and breaking features down into smaller, manageable tasks
-
-#### [23 Code Street](https://www.23codestreet.com/) (May 2019 - Aug 2019)
-
-A 12-week bi-weekly Web Development Foundation course.
-
-- JavaScript, HTML5, CSS3
-- Version control via GitHub and Fork
-- Responsive and accessible development and design principles
-- Group work and pair programming
-
-<details>
-<summary><strong>Durham University (2005 - 2008)</strong></summary> 
-<ul><li>Combined Honours in Arts (Classics and English): BA(Hons) 2:1</li>
-<li>Elective module in Ancient History</li>
-<li>Evening classes in Ancient Egyptian Hieroglyphics</li></ul>
-</details>
-<details>
-<summary><strong>George Abbot Sixth Form College (2003 - 2005) </strong></summary> 
-<ul><li>3 A-levels: English, History, Latin</li>
-<li>1 AS-level: Physics</li>
-<li>Elected Head Girl by the student body and faculty</li></ul>
-</details>
+- Project work using Git and a selection of collaboration tools
+- Breaking down project requirements with user stories, domain models and other modelling techniques
 
 <h2>Work experience</h2>
-
-<details>
-<summary><strong>Software Engineer (2020 - current)</strong></summary> 
-</details>
-<details>
-<summary><strong>Digital Content Manager/Webmaster (2012 - 2020)</strong></summary> 
-<strong><em>The Low Incomes Tax Reform Group</em></strong>
-<ul><li>As Digital Content lead, website manager and SEO lead I helped increase our website traffic from roughly 100,000 visitors a year to 5.5 million over my tenure. This included overseeing an extensive website migration, setting up and managing project sites, devising yearly project and marketing plans, and being the key liaison between the team and our developers.</li>
-<li>Experienced using Drupal CMS, ExpressionEngine, Sharepoint and ClickDimensions.</li></ul>
-</details>
-<details>
-<summary><strong>Technical Team Administrator (2010 - 2012)</strong></summary> 
-<strong><em>The Chartered Institute of Taxation</em></strong>
-<ul><li>Website management of 3 separate organisations' Technical areas, including proofing and formatting content, database management (Citrix and Access) and social media output.</li></ul>
-</details>
-<details>
-<summary><strong>Accounts Officer (2010)</strong></summary> 
-<strong><em>Constellation</em></strong>
-<ul><li>Client portfolio management involving specialised customer care.</li>
-<li>Preparation of client and financial reports, including trend identification.</li>
-<li>Logistics and supply chain problem solving.</li>
-<li>Management of Citrix database.</li></ul>
-</details>
-<details>
-<summary><strong>Placements Officer (2008 - 2009)</strong></summary> 
-<strong><em>NHS Continuing Care, NHS Surrey PCT</em></strong>
-<ul><li>Responsible for sourcing care for elderly or disabled patients on an individual basis.</li>
-<li>Intensive liaison between hospital staff, relatives, agencies and nursing homes.</li>
-<li>Management of database, containing sensitive and confidential information.</li>
-<li>Administrative and IT support, involving extensive use of Microsoft Office.</li></ul>
-</details>
-
-<h3>Freelance</h3>
-
-<details>
-<summary><strong>Shopify - Web Developer</strong></summary> 
-<strong><em>Thirteen Months</em></strong>
-<ul><li>Styling and troubleshooting template issues on a Shopify website. Shopify uses Liquid, a template language created by Shopify and written in Ruby.</li></ul>
-</details>
-<details>
-<summary><strong>Wordpress - Web Developer</strong></summary> 
-<strong><em>Bridal Bus</em></strong>
-<ul><li>Building a website for a new business in Wordpress. This project is still in its infancy (and is on hold because of the current situation).</li></ul>
-</details>
-<details>
-<summary><strong>InDesign - Sub-Editor</strong></summary> 
-<strong><em>Motor Finance/Leasing Life</em></strong>
-<ul><li>Proofing and copy editing in Indesign</li></ul>
-</details>
 
 <h2>Hobbies</h2>
 
