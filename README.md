@@ -2,14 +2,10 @@
 
 <h4 align="center">Software Engineer</h4>
 
-<p align="center">Graduated Makers Academy, following a hobbyist persuit of game development and an ever-growing indomitable passion for programming</p>
+<p align="center">Graduated Makers Academy following a multi-year hobbyist persuit of game development and an ever-growing indomitable passion for programming</p>
 
 <p align="center"><a href="https://www.orionreed.com/">www.orionreed.com</a></p>
 
-<p align="center">
-<a href="https://medium.com/@sophbell87"><img src="https://camo.githubusercontent.com/fb4865eefe449caf99147ee43f405f5c60533b82/687474703a2f2f7777772e7765626d6173746f2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031372f30382f4d656469756d2d4170702d49636f6e2d323031372e706e67" alt="medium" height="42" width="42" hspace="30" data-canonical-src="http://www.webmasto.com/wp-content/uploads/2017/08/Medium-App-Icon-2017.png"></a>
-<a href="https://www.linkedin.com/in/sophia-bell-1a945a2b/"><img src="https://camo.githubusercontent.com/48a30c956b0affacc0bb4c93c3f04151ed015f0e/68747470733a2f2f7777772e69636f6e66696e6465722e636f6d2f646174612f69636f6e732f667265652d736f6369616c2d69636f6e732f36372f6c696e6b6564696e5f636972636c655f636f6c6f722d3531322e706e67" alt="linkedin" height="42" width="42" hspace="30" data-canonical-src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png"></a>
-</p>
 <h4 align="center">
   <b></b>
   <a href="#profile">Profile</a> |
@@ -98,16 +94,6 @@ A 12-week bi-weekly Web Development Foundation course.
 <li>Elected Head Girl by the student body and faculty</li></ul>
 </details>
 
-<h3>Professional Development</h3>
-
-All training requested and undertaken once I had identified gaps in my previous team's knowledge and expertise. This contributed to our team's effeciency and success as I was able to take these roles in-house.
-
-- Drupal 7 CMS training
-- HTML/CSS Level 1 Programming Course
-- Fast Track Digital Marketing
-- Content Marketing for Web, Mobile and Social Media
-- Google Analytics Advance - Optimising your site training
-
 <h2>Work experience</h2>
 
 <details>
@@ -161,19 +147,9 @@ All training requested and undertaken once I had identified gaps in my previous 
 
 <h2>Hobbies</h2>
 
-Sci-fi nut, gamer since the days of DOS, in practice a worse piano player than my years of playing suggest, amateur ceramicist, cat whisperer, and destroyer of potted plants (although I'm working on that one).
-
-<h3>Volunteering</h3>
-I enjoy volunteering my time when I am able. I have previously volunteered for the following organisations:
-<ul><li><a href="https://www.treesforcities.org/">Trees for Cities</a></li>
-<li><a href="https://www.wildlondon.org.uk/">London Wildlife Trust</a></li>
-<li><a href="https://www.survivorsoftorture.org/">Bellevue Program for Survivors of Torture</a></li>
-<li><a href="https://createlondon.org/">CREATE London</a></li>
-</ul>
+Philosopher wannabe, happy coffee addict, always trying to get closer to flying, maker of short films and music (from things that aren't instruments).
 
 <h2>Contact</h2>
 
-- Email: sophbell87@gmail.com
-- Portfolio website: [www.sophiabell.dev](https://www.sophiabell.dev/)
-- GitHub: [Kittaru87](https://github.com/Kittaru87)
-- Blogging site: [Medium](https://medium.com/@sophbell87)
+- Email: orionreedt@gmail.com
+- GitHub: [Kittaru87](https://github.com/orionreed)
