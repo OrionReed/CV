@@ -19,7 +19,7 @@
 
 <h2>Profile</h2>
 
-Changing careers is not an easy thing to do. The majority of my career has centered around website management and digital content, and I have had a lot of success in my previous role - as digital content and SEO lead, I helped increase website traffic to my sites from roughly 100,000 visitors a year to 5.5 million over my tenure, directly contributing to the team winning <a href="https://www.litrg.org.uk/about-us/litrg-successes">'Best Specialist Team in a public or not-for-profit organisation'</a> at the Taxation Awards 2020. However, I was only really skimming the surface of the tech world and I still felt like something was missing.
+Programming has always had a place in my life since the age of 10, for a long time I have been passionate about _the future_, of the planet, of science, of knowledge and computing. I started my career with the intention of communicating important ideas through the medium of film 
 
 **Tech Skills** : Ruby, Rails, C#, Haskell, Javascript, React, Python, jQuery, HTML, CSS, SQL, PostgreSQL, NodeJS
 
@@ -27,9 +27,9 @@ Changing careers is not an easy thing to do. The majority of my career has cente
 
 <h2>Projects</h2>
 
-...                                                                                                                            |
+...                                                                                                                            
 
-All projects can be found on my [GitHub account](https://github.com/Kittaru87)
+All projects can be found on my [GitHub account](https://github.com/OrionReed)
 
 <h2>Skills</h2>
 
@@ -71,4 +71,4 @@ Philosopher wannabe, happy coffee addict, always trying to get closer to flying,
 <h2>Contact</h2>
 
 - Email: orionreedt@gmail.com
-- GitHub: [Kittaru87](https://github.com/orionreed)
+- GitHub: [OrionReed](https://github.com/orionreed)
